@@ -1,2 +1,2 @@
 # easy-jobs-landing
-Easy Jobs Landing Page, using HTML5 semantic tags, and CSS3 Flexbox.
+Sample Project illustrating the use of HTML semantic tags, and CSS Flexbox. It includes Google Fonts and also Fontawesome. It shows how to inject reusable sections in content with JavaScript.
